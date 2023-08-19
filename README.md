@@ -16,11 +16,12 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 - 🔭  I’m currently learning Full Stack Development :bowtie:
 - 👯  I’m open to collaborating!!!
 - 💬  Ask me about **React, Redux, Javascript, Ruby, PostgreSQL**
-- 👨‍💻  All of my projects are available at [Github.com](https://github.com/Nasirkhan294?tab=repositories)
+- 👨‍💻  All of my projects are available at [Github](https://github.com/Nasirkhan294?tab=repositories)
 - 📫  You can reach me on [Twitter](https://twitter.com/NasirMa35888225) & [Linkedin](https://www.linkedin.com/in/nasirmahd-8a8/)
 - 😄  Pronouns: he/him
 <br>
 <p align="left"> <a href="https://twitter.com/NasirMa35888225" target="blank"><img src="https://img.shields.io/twitter/follow/Nasir?logo=twitter&style=for-the-badge" alt="NasirMa35888225" /></a> </p>
+<br>
 <hr>
 
 ### Languages and Tools:
