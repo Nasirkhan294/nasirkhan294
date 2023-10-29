@@ -13,7 +13,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <br>
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Nasirkhan294&label=Profile%20views&color=ff69b4" alt="Nasirkhan" /> </p>
 
-- 🔭  I’m currently learning Full Stack Development :bowtie:
+- 🔭  I’m currently looking for a job :bowtie:
 - 👯  I’m open to collaborating!!!
 - 💬  Ask me about **React, Redux, Javascript, Ruby, PostgreSQL**
 - 👨‍💻  All of my projects are available at [Github](https://github.com/Nasirkhan294?tab=repositories)
