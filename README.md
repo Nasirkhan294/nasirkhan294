@@ -13,11 +13,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <br>
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Nasirkhan294&label=Profile%20views&color=ff69b4" alt="Nasirkhan" /> </p>
 
-- 🔭  I’m currently looking for a job :bowtie:
+- 🔭  I’m currently working :bowtie:
 - 👯  I’m open to collaborating!!!
 - 💬  Ask me about **React, Redux, Javascript, Ruby, PostgreSQL**
 - 👨‍💻  All of my projects are available at [Github](https://github.com/Nasirkhan294?tab=repositories)
-- 📫  You can reach me on [Twitter](https://twitter.com/NasirMa35888225) & [Linkedin](https://www.linkedin.com/in/nasirmahd-8a8/)
+- 📫  You can reach me on [Linkedin](https://www.linkedin.com/in/nasirmahd-8a8/)
 - 😄  Pronouns: he/him
 <br>
 <p align="left"> <a href="https://twitter.com/NasirMa35888225" target="blank"><img src="https://img.shields.io/twitter/follow/Nasir?logo=twitter&style=for-the-badge" alt="NasirMa35888225" /></a> </p>
