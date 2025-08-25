@@ -17,7 +17,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 - 👯  I’m open to collaborating!!!
 - 💬  Ask me about **React, Redux, Javascript, Ruby, PostgreSQL**
 - 👨‍💻  All of my projects are available at [Github](https://github.com/Nasirkhan294?tab=repositories)
-- 📫  You can reach me on [Linkedin](https://www.linkedin.com/in/nasirmahd/)
+- 📫  You can reach me on [Linkedin](https://www.linkedin.com/in/nasirmahdkhan/))
 - 😄  Pronouns: he/him
 <br>
 <p align="left"> <a href="https://twitter.com/NasirMa35888225" target="blank"><img src="https://img.shields.io/twitter/follow/Nasir?logo=twitter&style=for-the-badge" alt="NasirMa35888225" /></a> </p>
